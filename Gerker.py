@@ -27,7 +27,7 @@ print(blue + """
 [---]               The 3/4 User Generator (Gerker)             [---]
 [---]                Created by: AKA_Sla7er (AKA)               [---]
 [---]                      Version: 1.0.0                       [---]
-[---]          Homepage: https://ahmedxcx722.github.io/home/    [---]
+[---]             Homepage: https://aka7-org.github.io/home/    [---]
                 Welcome to the 3/4 User Generator Tool (SET)
 """ + reset)
 
